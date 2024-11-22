@@ -15,6 +15,7 @@ class LaunchScreenVC: UIViewController {
         super.viewDidLoad()
         aboutBtn.layer.cornerRadius = 10
         getStrtBtn.layer.cornerRadius = 10
+        
         // Do any additional setup after loading the view.
     }
     

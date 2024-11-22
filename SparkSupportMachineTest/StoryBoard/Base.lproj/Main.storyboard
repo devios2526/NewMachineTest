@@ -208,7 +208,6 @@
                             <constraint firstItem="tRt-sg-toB" firstAttribute="leading" secondItem="ay0-Yx-ccp" secondAttribute="leading" constant="16" id="2ib-KE-DoT"/>
                             <constraint firstItem="tRt-sg-toB" firstAttribute="top" secondItem="ay0-Yx-ccp" secondAttribute="top" constant="257" id="Gsi-g9-wuR"/>
                             <constraint firstItem="ay0-Yx-ccp" firstAttribute="trailing" secondItem="tRt-sg-toB" secondAttribute="trailing" constant="16" id="YIG-ee-tkw"/>
-                            <constraint firstItem="ay0-Yx-ccp" firstAttribute="bottom" secondItem="tRt-sg-toB" secondAttribute="bottom" constant="242" id="i4J-IU-cIE"/>
                         </constraints>
                     </view>
                     <connections>
